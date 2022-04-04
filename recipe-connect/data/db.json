@@ -21,7 +21,7 @@
         "1 Green pepper",
         "100g Mushrooms"
       ],
-      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasta, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
       "cookingTime": "35 minutes"
     },
     {
@@ -36,6 +36,18 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Chickpea Curry",
+      "ingredients": [
+        "chickpeas",
+        "onions",
+        "rice",
+        "garlic"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in erat congue, elementum ligula ut, elementum eros. Pellentesque hendrerit posuere purus at efficitur. Quisque tincidunt viverra lacinia. Sed ut magna et mauris consectetur vulputate. Cras vel magna",
+      "cookingTime": "45 minutes",
+      "id": "UENTKyu"
     }
   ]
 }
